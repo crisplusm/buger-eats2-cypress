@@ -1,0 +1,64 @@
+{
+    "signup":{
+
+        "name" :  "Cristiane Martins",
+        "cpf" :  "00000014141",
+        "email":  "cristiane@hotmail.com",
+        "whatsapp":  "11 999999999 ",
+        
+        "address": {
+            "postalcode":  "04534011",
+            "street":  "Rua Joaquim Floriano",
+            "number":  "1000",
+            "details":  "Ap 142",
+            "district":  "Itaim Bibi",
+            "city_state":  "São Paulo/SP"
+
+        },
+
+        "delivery_method":  "Moto",
+         "cnh":  "cnh-digital.jpg"
+},
+
+      "cpf_inv":{
+
+        "name" :  "Doja Cat",
+        "cpf" :  "x000000141AA",
+        "email":  "doja_cat@hotmail.com",
+        "whatsapp":  "11 999999999",
+        
+        "address": {
+            "postalcode":  "04534011",
+            "street":  "Rua Joaquim Floriano",
+            "number":  "1000",
+            "details":  "Ap 142",
+            "district":  "Itaim Bibi",
+            "city_state":  "São Paulo/SP"
+
+      },
+      "delivery_method":  "Moto",
+       "cnh":  "cnh-digital.jpg"
+       
+},
+
+    "email_inv":{
+        "name" :  "Cristiane Martins",
+        "cpf" :  "00000014141",
+        "email":  "cristiane.com.br",
+        "whatsapp":  "11 999999999 ",
+        
+        "address": {
+            "postalcode":  "04534011",
+            "street":  "Rua Joaquim Floriano",
+            "number":  "1000",
+            "details":  "Ap 142",
+            "district":  "Itaim Bibi",
+            "city_state":  "São Paulo/SP"
+
+        },
+
+        "delivery_method":  "Moto",
+         "cnh":  "cnh-digital.jpg"
+    }
+
+}
